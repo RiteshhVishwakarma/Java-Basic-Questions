@@ -2,7 +2,7 @@
 // Write a program to find area of a rectangle. ( length * width)
 import java.util.Scanner;
 
-public class Area_Of_Rectangle_11 {
+public class Area_Of_Rectangle_11{
     float length, width, area;
     Scanner sc = new Scanner(System.in);
 

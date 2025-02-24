@@ -11,5 +11,11 @@ public class StringReverse {
         }
         System.out.println("Reverse: "+rev);
 
+        if (str.equals(rev)){
+            System.out.println("Its Palindrome");
+        }else {
+            System.out.println("Its not Palindrome");
+        }
+
     }
 }
